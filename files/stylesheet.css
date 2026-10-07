@@ -1,0 +1,39 @@
+/* Compact mode's home view. Colours come from the theme's menu styles. */
+.search-menu-home {
+    spacing: 22px;
+    padding: 14px 4px 8px 4px;
+}
+
+.search-menu-header {
+    spacing: 16px;
+    padding: 0 8px;
+}
+
+.search-menu-greeting {
+    font-size: 1.45em;
+    font-weight: bold;
+}
+
+.search-menu-date {
+    padding-top: 3px;
+}
+
+.search-menu-tiles {
+    spacing: 10px;
+}
+
+.search-menu-tiles .search-menu-tile {
+    border-radius: 12px;
+    padding: 18px 6px 14px 6px;
+    spacing: 10px;
+}
+
+.search-menu-tile-label {
+    text-align: center;
+}
+
+/* Backdrop for the default avatar; a real face picture covers it. */
+.search-menu-avatar {
+    border-radius: 999px;
+    background-color: rgba(128, 128, 128, 0.25);
+}

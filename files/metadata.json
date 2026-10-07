@@ -1,0 +1,7 @@
+{
+ "uuid": "search-menu@fabri",
+ "name": "Search Menu",
+ "description": "The Cinnamon menu, compact: a greeting, big lock / log out / suspend / restart / shut down tiles, and search. Apps show up when you type.",
+ "icon": "xsi-edit-find-symbolic",
+ "max-instances": -1
+}
